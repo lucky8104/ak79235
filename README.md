@@ -1,4 +1,5 @@
 ### Hi there 👋
+![PIC](https://user-images.githubusercontent.com/52576626/89661493-649d4300-d8f0-11ea-8a5a-306f92da54d9.jpg)
 - 🔭 I’m currently working on Chatbot
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Github
