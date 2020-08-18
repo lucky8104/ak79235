@@ -7,4 +7,4 @@
 - 💬 Ask me about C/C++
 - 📫 How to reach me: Gmail:ak79235@gmail.com
 - ⚡ Fun fact: I know little bit of every language
-
+[![Anish's github stats](https://github-readme-stats.vercel.app/api?username=ak79235)](https://github.com/ak79235/github-readme-stats)
