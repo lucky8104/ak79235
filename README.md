@@ -11,4 +11,4 @@
 <a href="https://www.instagram.com/ak79235/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/anish-kumar-803695163/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
-![Anish's github stats](https://github-readme-stats.vercel.app/api?username=ak79235&show_icons=true&theme=radical)
+![Anish's github stats](https://github-readme-stats.vercel.app/api?username=ak79235&show_icons=true&theme=gruvbox)
