@@ -6,9 +6,11 @@
 - 💬 Ask me about C/C++
 - 📫 How to reach me: Gmail:ak79235@gmail.com
 - ⚡ Fun fact: I know little bit of every language
+
+![Anish's github stats](https://github-readme-stats.vercel.app/api?username=ak79235&show_icons=true&theme=gruvbox)
+
 <p align='center'>
 <a href="https://twitter.com/ak79235"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/ak79235/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/anish-kumar-803695163/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
-![Anish's github stats](https://github-readme-stats.vercel.app/api?username=ak79235&show_icons=true&theme=gruvbox)
