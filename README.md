@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Chatbot
+- 🔭 I’m currently working on CHATBOX
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with Web Development
